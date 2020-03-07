@@ -1,3 +1,4 @@
-# Character Network Graphs in Novels (Work-in-Progress)
+# Character Network Graph of A Midsummer Night's Dream
 ## Project Goal
-* Create character network graphs, inspired by Martin Grandjean's work, found [here](http://www.martingrandjean.ch/network-visualization-shakespeare/)
+* Create a character network graph of *A Midsummer Night's Dream*, inspired by Martin Grandjean's work, found [here](http://www.martingrandjean.ch/network-visualization-shakespeare/)
+* Create a tutorial to show how I processed the script and created the network graph.
